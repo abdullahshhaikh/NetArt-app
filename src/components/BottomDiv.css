@@ -1,0 +1,50 @@
+
+
+.bottom-div {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin: auto;
+}
+
+
+/* 2nd div*/
+.bottom-div-2 {
+  text-align: center;
+  margin: 1rem 0 0.5rem 0;
+}
+
+.tools {
+  width: 75%;
+}
+
+/* */
+
+/* 3rd div*/
+.bottom-div-3{
+    text-align: center;
+    padding-bottom: 0.5rem;
+    border-bottom: 0.15rem solid red;
+} 
+/* */
+
+/* 4th div*/
+.bottom-div-4{
+    margin: 1rem 0 1rem 0;
+}
+
+.forth-div-span{
+    display: block;
+    text-align: center;
+    font-weight:600;
+}
+/* */
+
+
+@media screen and (max-width: 375px) {
+  .products-span{
+    font-size: 0.6rem;
+    font-weight: 600;
+  }
+  
+}
